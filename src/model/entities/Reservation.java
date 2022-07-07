@@ -23,7 +23,7 @@ public class Reservation {
         this.checkOut = checkOut;
     }
 
-    public Integer getRoomNumber(Integer roomNumber){
+    public Integer getRoomNumber(){
         return roomNumber;
     }
 
